@@ -5,3 +5,4 @@ Czwarta linia notatki
 Piąta linia notatki
 Szósta linia notatki na main
 Kolejna notatka lokalna
+Notatka dodana lokalnie w Przykładzie 3
