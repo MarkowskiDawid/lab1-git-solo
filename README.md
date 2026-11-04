@@ -1,4 +1,4 @@
-# Laboratorium 1 - Git
+# Projekt Beta
 Pierwsza linia opisu
 
 ## Autor
